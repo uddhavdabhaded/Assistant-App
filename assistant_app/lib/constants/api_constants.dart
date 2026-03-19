@@ -1,7 +1,7 @@
 class ApiConstants {
   static const String baseUrl = 'https://generativelanguage.googleapis.com';
   static const String chatEndpoint = '/v1beta/models/gemini-2.5-flash:generateContent';
-  static const String apiKey = 'AIzaSyAf7n9hAp342_4-M9bY7E3LQCfOmrvS21U';
+  static const String apiKey = 'AIzaSyCoGZWs32q-0FzRQpN8XQE__YKkdB_hEzs';
   
   // Headers
   static const Map<String, String> headers = {
